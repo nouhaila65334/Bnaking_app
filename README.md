@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot JWT Authentication example with Spring Security & Spring Data JPA
 
 ## User Registration, User Login and Authorization process.
@@ -196,3 +197,6 @@ Run both Back-end & Front-end in one place:
 > [Integrate React.js with Spring Boot Rest API](https://bezkoder.com/integrate-reactjs-spring-boot/)
 
 > [Integrate Vue.js with Spring Boot Rest API](https://bezkoder.com/integrate-vue-spring-boot/)
+=======
+# Banking_app
+>>>>>>> 18330ad91fc798065411a9a67d76f4264f9eb885
