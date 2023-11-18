@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Spring Boot JWT Authentication example with Spring Security & Spring Data JPA
 
 ## User Registration, User Login and Authorization process.
@@ -200,3 +201,6 @@ Run both Back-end & Front-end in one place:
 =======
 # Banking_app
 >>>>>>> 18330ad91fc798065411a9a67d76f4264f9eb885
+=======
+# Bnaking_app
+>>>>>>> 42ba249470ee7c6bee16d70cb86d781e81d46178
